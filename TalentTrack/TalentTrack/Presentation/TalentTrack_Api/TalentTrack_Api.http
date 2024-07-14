@@ -1,0 +1,6 @@
+@TalentTrack_Api_HostAddress = http://localhost:5272
+
+GET {{TalentTrack_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\bin\Debug\net8.0\TalentTrack.Core.deps.json
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\bin\Debug\net8.0\TalentTrack.Core.dll
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\bin\Debug\net8.0\TalentTrack.Core.pdb
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\TalentTrack.Core.csproj.AssemblyReference.cache
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\TalentTrack.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\TalentTrack.Core.AssemblyInfoInputs.cache
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\TalentTrack.Core.AssemblyInfo.cs
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\TalentTrack.Core.csproj.CoreCompileInputs.cache
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\TalentTrack.Core.dll
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\refint\TalentTrack.Core.dll
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\TalentTrack.Core.pdb
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Core\obj\Debug\net8.0\ref\TalentTrack.Core.dll

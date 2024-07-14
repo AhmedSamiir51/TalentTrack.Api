@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.ApplicationController",
+    "Method": "AddOrEditApplication",
+    "RelativePath": "api/Application/AddOrEditApplication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "TalentTrack.Application.Features.Applicants.Commands.AddOrEditApplicantCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.ApplicationController",
+    "Method": "DeleteApplication",
+    "RelativePath": "api/Application/DeleteApplication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "TalentTrack.Application.Features.Applicants.Commands.DeleteApplicantCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.ApplicationController",
+    "Method": "GetAllApplication",
+    "RelativePath": "api/Application/GetAllApplication",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.ApplicationController",
+    "Method": "GetAllApplicationWithSearch",
+    "RelativePath": "api/Application/GetAllApplicationWithSearch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "TalentTrack.Application.Features.Applicants.Queries.GetApplicantByNamePaginationQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.ApplicationController",
+    "Method": "GetApplicationById",
+    "RelativePath": "api/Application/GetApplicationById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.JobTitleController",
+    "Method": "AddOrEditJobTitle",
+    "RelativePath": "api/JobTitle/AddOrEditJobTitle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "TalentTrack.Application.Features.JobTitles.Commands.AddOrEditJobTitlesCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.JobTitleController",
+    "Method": "DeleteJobTitle",
+    "RelativePath": "api/JobTitle/DeleteJobTitle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "TalentTrack.Application.Features.JobTitles.Commands.DeleteJobTitlesCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.JobTitleController",
+    "Method": "GetAllJobTitle",
+    "RelativePath": "api/JobTitle/GetAllJobTitle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.JobTitleController",
+    "Method": "GetAllJobTitleWithSearch",
+    "RelativePath": "api/JobTitle/GetAllJobTitleWithSearch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "TalentTrack.Application.Features.JobTitles.Queries.GetJobTitlesByNamePaginationQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TalentTrack.Api.Controllers.JobTitleController",
+    "Method": "GetJobTitleById",
+    "RelativePath": "api/JobTitle/GetJobTitleById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

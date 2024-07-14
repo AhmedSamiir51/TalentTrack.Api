@@ -1,0 +1,15 @@
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\bin\Debug\net8.0\TalentTrack.Application.deps.json
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\bin\Debug\net8.0\TalentTrack.Application.dll
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\bin\Debug\net8.0\TalentTrack.Application.pdb
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\bin\Debug\net8.0\TalentTrack.Core.dll
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\bin\Debug\net8.0\TalentTrack.Core.pdb
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTrack.Application.csproj.AssemblyReference.cache
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTrack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTrack.Application.AssemblyInfoInputs.cache
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTrack.Application.AssemblyInfo.cs
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTrack.Application.csproj.CoreCompileInputs.cache
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTr.00A55D8D.Up2Date
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTrack.Application.dll
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\refint\TalentTrack.Application.dll
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\TalentTrack.Application.pdb
+C:\Users\win 11\source\repos\TalentTrack\TalentTrack\Core\TalentTrack.Application\obj\Debug\net8.0\ref\TalentTrack.Application.dll

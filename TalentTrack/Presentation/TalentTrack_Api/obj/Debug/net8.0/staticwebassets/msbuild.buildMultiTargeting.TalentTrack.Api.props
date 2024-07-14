@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TalentTrack.Api.props" />
+</Project>
